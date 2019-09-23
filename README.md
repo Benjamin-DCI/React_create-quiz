@@ -22,9 +22,4 @@ Create a quiz with React, You should use the file **questions.js** with question
 -   Make your own questions and answers
 -   Increase the amount of questions.
 
-### Rules
 
--   This is an individual assignment.
--   Deadline: 2 days.
--   Use **Git properly**
--   Feel free to document your code with comments.
