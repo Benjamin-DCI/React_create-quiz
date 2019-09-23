@@ -1,4 +1,4 @@
-## Instructions for students:
+## Instructions:
 
 ### Create a Quiz
 
